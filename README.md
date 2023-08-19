@@ -1,2 +1,3 @@
-# Project-SQL
-SQL project from Engeto Data Academy
+Project SQL Engeto Academy
+
+
