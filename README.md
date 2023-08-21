@@ -16,7 +16,7 @@ během časového období pro roky 2008 - 2018.
    cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
 ## Finální tabulky
-Vytvořila jsem **primární tabulku t_Blanka_Toboláková_project_SQL_primary_final**. Která zpracovává data mezd a cen potravin za 
+   Vytvořila jsem **primární tabulku t_Blanka_Toboláková_project_SQL_primary_final**. Která zpracovává data mezd a cen potravin za 
 Českou republiku sjednocených na totožné porovnatelné období -společné roky. 
 Tato tabulka obsahuje sloupce:
   + **category_code**
@@ -30,11 +30,20 @@ Tato tabulka obsahuje sloupce:
 
  Dále jsem vytvořila **sekundární tabulku t_Blanka_Toboláková_project_SQL_secondary_table**.
  Tato tabulka obsahuje sloupce:
-   + **cauntry**
+   + **country**
    + **year**
    + **GDP**
    + **gini**
    + **population**
+
+## 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+
+   **Dlouhodový trend** je takový, že všechna sledovaná odvětví mezi lety **2006** a **2018** zaznamenala nárust mezd. Přičemž **největšího procentuálního nárustu mezd** dosáhlo odvětví **zdravotnictví a sociální péče 77,83%**. **Nejmenší procentuální růst** mezd mezi těmito sledovanými obdobími byl v odvětví **peněžnictví a pojišťovnictví**. 
+
+Při podrobnějším rozpadu tohoto trendu je patrné, že v roce **2013** došlo u **11 odvětví** k meziročnímu poklesu mezd. Mzdy tedy nerostly u všech odvětví po celou dobu sledování. 
+
+## 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+
 
    
 
