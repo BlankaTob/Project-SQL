@@ -28,9 +28,13 @@ Tato tabulka obsahuje sloupce:
   + **industry_name**
   + **payroll_value**
 
-  Do této tabulky byly zahrnuty pouze 
-
  Dále jsem vytvořila **sekundární tabulku t_Blanka_Toboláková_project_SQL_secondary_table**.
+ Tato tabulka obsahuje sloupce:
+   + **cauntry**
+   + **year**
+   + **GDP**
+   + **gini**
+   + **population**
 
    
 
