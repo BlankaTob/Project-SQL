@@ -48,7 +48,16 @@ V roce **2008** bylo možné za průměrnou mzdu koupit **1353 litrů mléka a 1
 V roce **2018** bylo možné za průměrnou mzdu koupit **1655 litrů mléka a 1379 kg chleba**.
    Tyto údaje poukazují na jistý trend zvedající se kupní síly obyvatelstva, který by bylo zajímavé prozkoumat i u dalších položek denní spotřeby. 
 
-## 3.Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+## 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+Nejnižší procentuální meziroční nárust cen byl zaznamenán v roce **2007** a druhý nejnižší v roce **2011** u kategorie potravin: **Rajská jablka červená kulatá** ( -31,3 % a -28,57%)
+
+Dlouhodobý trend při porovnání mezi lety **2006 a 2018** dokazuje klesající ceny u kategorie: **cukr krystalový**, kdy v tomto období došlo ke **snížení cen o 27,27%**.
+U ** Rajských jablek červených kulatých ** došlo také ke snížení cen o 24,14%**.
+Pro jakostní víno bílé chybí data za rok 2006.
+
+##
+
+
 
 
 
