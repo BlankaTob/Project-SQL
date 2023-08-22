@@ -44,6 +44,19 @@ Při podrobnějším rozpadu tohoto trendu je patrné, že v roce **2013** došl
 
 ## 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
+V roce **2008** bylo možné za průměrnou mzdu koupit **1353 litrů mléka a 1059 kg chleba**.
+V roce **2018** bylo možné za průměrnou mzdu koupit **1655 litrů mléka a 1379 kg chleba**.
+   Tyto údaje poukazují na jistý trend zvedající se kupní síly obyvatelstva, který by bylo zajímavé prozkoumat i u dalších položek denní spotřeby. 
+
+## 3.Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+
+
+
+
+
+
+
+
 
    
 
