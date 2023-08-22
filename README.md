@@ -1,6 +1,6 @@
 #  Project SQL Engeto Academy
 
-Discord:
+Discord: blankatobolak
 
 Tento project zpracovává předem definovné výzkumné otázky, které adresují dostupnost základních potravin široké veřejnosti.
 Připravila jsem datové podklady, ve kterých je možné vidět porovnání dostupnosti potravin na základě průměrných příjmů
