@@ -4,7 +4,7 @@ Discord: blankatobolak
 
 Tento project zpracovává předem definovné výzkumné otázky, které adresují dostupnost základních potravin široké veřejnosti.
 Připravila jsem datové podklady, ve kterých je možné vidět porovnání dostupnosti potravin na základě průměrných příjmů
-během časového období pro roky 2008 - 2018.
+během časového období pro roky 2006 - 2018.
 
 
 
