@@ -1,5 +1,5 @@
 /*secondary table*/
-CREATE OR REPLACE TABLE t_Blanka_Toboláková_project_SQL_secondary_final AS
+CREATE OR REPLACE TABLE t_Blanka_Tobolakova_project_SQL_secondary_final AS
 	SELECT 
 		c.country,
 		e.`year`, 
