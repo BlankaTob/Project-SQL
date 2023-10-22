@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE t_Blanka_Toboláková_project_SQL_primary_final AS
+CREATE OR REPLACE TABLE t_Blanka_Tobolakova_project_SQL_primary_final AS
 SELECT 
 	t1.category_code AS category_code,
 	cpc.name AS food_category,
