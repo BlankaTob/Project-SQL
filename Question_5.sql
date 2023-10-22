@@ -30,5 +30,3 @@ WHERE
     e.YEAR BETWEEN 2006 AND 2018
     AND e.country = 'Czech Republic'
 ORDER BY e.YEAR;
-
-		
