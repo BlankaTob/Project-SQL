@@ -2,7 +2,7 @@
 /*dlouhodobý trend*/
 
 SELECT
-   industry_name,
+    industry_name,
     AVG(CASE WHEN year = 2006 THEN payroll_value END) AS avg_payroll_2006,
     AVG(CASE WHEN year = 2018 THEN payroll_value END) AS avg_payroll_2018,
     ROUND(((AVG(CASE WHEN year = 2018 THEN payroll_value END) - AVG(CASE WHEN year = 2006 THEN payroll_value END)) / AVG(CASE WHEN year = 2006 THEN payroll_value END)) * 100, 2) AS percentage_change,
